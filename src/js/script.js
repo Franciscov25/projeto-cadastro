@@ -64,7 +64,7 @@ function validarErro(input,message){
 }
 
 
-// validar sucesso
+// validar sucessoa
 function validarSucesso(){
     
 }
